@@ -32,7 +32,7 @@
 
 ### Technologies & Frameworks
 [![Vue](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=Nuxt.js)](https://github.com/jongilnose)
+[![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)](https://github.com/jongilnose)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)](https://github.com/jongilnose)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/jongilnose)
