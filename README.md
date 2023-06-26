@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/jongilnose">
-    <img src="https://komarev.com/ghpvc/?username=jongilnose&color=white&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=jongilnose&color=black&style=flat)" />
   </a>
 </p>
 <!--
