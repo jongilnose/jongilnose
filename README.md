@@ -25,27 +25,27 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jongilnose)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/jongilnose)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jongilnose)
-[![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&logo=Go)](https://github.com/jongilnose)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/jongilnose)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/jongilnose)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/jongilnose)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jongilnose)
 
 ### Technologies & Frameworks
-[![Vue](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
-[![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&logo=Nuxt.js)](https://github.com/jongilnose)
+[![Vue](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js)](https://github.com/jongilnose)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=Nuxt.js)](https://github.com/jongilnose)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
-[![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&logo=Next.js)](https://github.com/jongilnose)
-[![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&logo=Laravel)](https://github.com/jongilnose)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)](https://github.com/jongilnose)
+[![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/jongilnose)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/jongilnose)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/jongilnose)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/jongilnose)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes)](https://hub.docker.com/u/jongilnose)
+[![Apache Kafka](https://img.shields.io/badge/ApacheKafka-black?style=for-the-badge&logo=ApacheKafka)](https://hub.docker.com/u/jongilnose)
 
 ### DevOps
-[![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logo=Amazon+AWS)](https://github.com/jongilnose)
-[![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&logo=Microsoft+Azure)](https://github.com/jongilnose)
-[![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&logo=Google+Cloud)](https://github.com/jongilnose)
-[![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&logo=Kubernetes)](https://github.com/jongilnose)
-[![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&logo=Apache+Kafka)](https://github.com/jongilnose)
+[![Amazon AWS](https://img.shields.io/badge/AmazonAWS-black?style=for-the-badge&logo=Amazon-AWS)](https://hub.docker.com/u/jongilnose)
+[![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-black?style=for-the-badge&logo=MicrosoftAzure)](https://hub.docker.com/u/jongilnose)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=for-the-badge&logo=GoogleCloud)](https://hub.docker.com/u/jongilnose)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/jongilnose)
@@ -56,7 +56,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jongilnose)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jongilnose)
-[![Raspbian](https://img.shields.io/badge/Raspbian-black?style=for-the-badge&logo=Raspbian)](https://github.com/jongilnose)
+[![Raspbian](https://img.shields.io/badge/RaspberryPi-black?style=for-the-badge&logo=RaspberryPi)](https://github.com/jongilnose)
 
 <p align="center">
   <a href="https://github.com/jongilnose">
