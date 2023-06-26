@@ -4,7 +4,7 @@
     <b>A person who knows how to utilize what they are best at and what they love the most.</b><br><br>
     <i>
         I'm Bobby Park(jongilnose)<br>
-        What I do best is <strong>building relationships of trust with colleagues<strong>, and what I like the most is **development**.<br>
+        What I do best is <blockquote>building relationships of trust with colleagues<blockquote>, and what I like the most is **development**.<br>
         And he is a passionate developer who uses it to create good solutions.<br>
         Open to collaborating on interesting and innovative projects.<br>
         I am confident in working with teams and team members to create high-quality, user-friendly products,<br>
