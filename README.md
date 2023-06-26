@@ -1,4 +1,4 @@
-<h1 align="center">Life is like a code, stitch by stitch<br><small>(인생도 코드처럼 한 땀 한 땀)<small></h1>
+<h1 align="center">Life is like a code, stitch by stitch<br><i>(인생도 코드처럼 한 땀 한 땀)</i></h1>
 
 <p align="center">
     <b>A person who knows how to utilize what they are best at and what they love the most.</b><br><br>
@@ -21,6 +21,26 @@
     </a>
 </p>
 
+### Languages
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jongilnose)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/jongilnose)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jongilnose)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jongilnose)
+[![Clojure](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/jongilnose)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jongilnose)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jongilnose)
+
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
 
 <p align="center">
   <a href="https://github.com/jongilnose">
