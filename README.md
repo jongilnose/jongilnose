@@ -1,5 +1,4 @@
-<h1 align="center">Life is like a code, stitch by stitch</h1>
-<h3 align="center">인생도 코드처럼 한 땀 한 땀</h3>
+<h1 align="center">Life is like a code, stitch by stitch<br>(인생도 코드처럼 한 땀 한 땀)</h1>
 
 <p align="center">
     <b>A person who knows how to utilize what they are best at and what they love the most.</b><br><br>
