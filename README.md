@@ -25,22 +25,29 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/jongilnose)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/jongilnose)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jongilnose)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jongilnose)
-[![Clojure](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/jongilnose)
+[![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)](https://github.com/jongilnose)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/jongilnose)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/jongilnose)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jongilnose)
 
 ### Technologies & Frameworks
-[![Vue](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+[![Vue](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
+[![Nuxt.js](https://img.shields.io/badge/nuxt.js-black?style=for-the-badge&logo=nuxt.js)](https://github.com/jongilnose)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/jongilnose)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/jongilnose)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/jongilnose)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/jongilnose)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/jongilnose)
+
+### DevOps
+[![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)](https://github.com/jongilnose)
+[![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)](https://github.com/jongilnose)
+[![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://github.com/jongilnose)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-[![Raspbian](https://img.shields.io/badge/Raspbian-black?style=for-the-badge&logo=Raspbian)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jongilnose)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jongilnose)
+[![Raspbian](https://img.shields.io/badge/Raspbian-black?style=for-the-badge&logo=Raspbian)](https://github.com/jongilnose)
 
 <p align="center">
   <a href="https://github.com/jongilnose">
